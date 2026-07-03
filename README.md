@@ -43,3 +43,29 @@ Each does a unique behavior and is something that the player must navigate
 # Dialogue System
 - Lets explore the lore a little more
 
+# Time Frame:
+- This will be done in 6 months
+- From July 6th - January 6th 2027
+- Organized into 2-ish week sprints
+
+July -- Ideation Phase
+- Get a working demo in and see if the basic mechanics make sense and are fun
+- Focus on adding new design elements like new challenges etc
+
+August -- Pre Alpha
+- Refine and build upon major cornerstones of gameplay such as dynamically generated worlds
+
+September -- Alpha
+- Vertical Slice by mid september
+
+October Pre-Beta
+- Expansion of vertical slice. No additional features should be added here
+
+November - Beta
+- Full game here with no noncritical bugs.
+- Everything should be in a semi-polished state
+
+December -- Wrapping up
+- Any non critical bugs
+- Additional Polish
+- Maybe think of putting up a small trailer
